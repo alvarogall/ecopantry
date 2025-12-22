@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EcoPantry</string>
+
+    <string name="btn_add">Añadir Producto</string>
+    <string name="btn_save">Guardar Producto</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="action_delete">Borrar</string>
+    <string name="action_consume">Consumir</string>
+    <string name="action_undo">Deshacer</string>
+
+    <string name="hint_name">Nombre del producto</string>
+    <string name="hint_category">Categoría</string>
+    <string name="label_expiry_date">Fecha de Caducidad</string>
+    <string name="select_date">Seleccionar Fecha</string>
+
+    <string name="date_format">%1$d/%2$d/%3$d</string>
+
+    <string name="msg_saved">Producto guardado correctamente</string>
+    <string name="msg_deleted">Producto eliminado</string>
+    <string name="msg_consumed">¡Producto consumido!</string>
+    <string name="error_name_required">El nombre es obligatorio</string>
+    <string name="error_date_required">Debes seleccionar una fecha</string>
+    <string name="dialog_title_action">¿Qué deseas hacer?</string>
+    <string name="dialog_msg_action">Elige una acción para este producto.</string>
+
+    <string name="stats_title">Resumen de Despensa</string>
+    <string name="stat_active">En despensa</string>
+    <string name="stat_expired">Caducados</string>
+    <string name="stat_consumed">Consumidos</string>
+
+    <string name="status_expired">¡CADUCADO!</string>
+    <string name="status_urgent">Caduca pronto (%1$d días)</string>
+    <string name="status_fresh">%1$d días restantes</string>
+    <string name="status_today">¡Caduca hoy!</string>
+
+    <string name="default_category">General</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_msg_save_error">No se pudo guardar el producto. Inténtalo de nuevo.</string>
+    <string name="dialog_btn_ok">Aceptar</string>
+
+    <string name="empty_state_message">No hay productos. ¡Añade uno!</string>
+</resources>
